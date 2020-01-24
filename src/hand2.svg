@@ -14,9 +14,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="hand-wo-bttm-slim-new.svg"
-   inkscape:export-filename="/home/umut/Dropbox/Mouse Cursor Theme/Numix/hand/cursor/hand-wo-bttm.png"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="hand2.svg"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/hand2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -38,16 +38,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="32.012661"
-     inkscape:cy="19.862148"
+     inkscape:zoom="17.71875"
+     inkscape:cx="18.068285"
+     inkscape:cy="15.995907"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1861"
-     inkscape:window-height="1176"
-     inkscape:window-x="1979"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
@@ -76,11 +76,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="12,16"
-       id="guide3851" />
+       id="guide3851"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="13,12"
-       id="guide3853" />
+       id="guide3853"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -90,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,8 +103,8 @@
      transform="translate(0,-1028.3622)"
      style="display:inline">
     <path
-       style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 3.8631393,1030.0353 4.2710839,0 0,5.8775 0,4.4081 0,-4.4081 4.2710848,0 0,4.4081 0,-4.4081 4.271084,0 0,4.4081 0,-4.4081 4.271082,0 0,10.2856 -17.0843347,0 0,-4.4081 -2.8473893,0 0,-4.4082 2.8473893,0 z"
+       style="display:inline;fill:#404040;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.8631393,1030.0353 h 4.2710839 v 5.8775 4.4081 -4.4081 h 4.2710848 v 4.4081 -4.4081 h 4.271084 v 4.4081 -4.4081 h 4.271082 v 10.2856 H 3.8631393 v -4.4081 H 1.01575 v -4.4082 h 2.8473893 z"
        id="path3821"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccc" />
@@ -112,8 +114,8 @@
      id="layer3"
      inkscape:label="Layer 2">
     <path
-       style="fill:#d64933;stroke:none;display:inline"
-       d="m 7.4948955,2.3196421 -3.3250369,0 0,2.9414131 3.3250369,0 z"
+       style="display:inline;fill:#ff6600;stroke:none"
+       d="M 7.4948955,2.3196421 H 4.1698586 v 2.9414131 h 3.3250369 z"
        id="path3833"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -126,8 +128,8 @@
        sodipodi:nodetypes="ccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path5110"
-       d="m 3.8631393,1.6730175 4.2710839,0 0,5.8774699 0,4.4081016 0,-4.4081016 4.2710848,0 0,4.4081016 0,-4.4081016 4.271084,0 0,4.4081016 0,-4.4081016 4.271082,0 0,10.2855736 -17.0843347,0 0,-4.408104 0,-0.165714 0,-4.6356901 0,0.3933034 z"
-       style="fill:none;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       d="M 3.8631393,1.6730175 H 8.1342232 V 7.5504874 11.958589 7.5504874 H 12.405308 V 11.958589 7.5504874 h 4.271084 V 11.958589 7.5504874 h 4.271082 V 17.836061 H 3.8631393 V 13.427957 13.262243 8.6265529 9.0198563 Z"
+       style="display:inline;fill:none;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

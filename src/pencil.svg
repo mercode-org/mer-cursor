@@ -13,9 +13,9 @@
    height="24"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="pencil.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/color-picker.png"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/pencil.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-32.389636"
-     inkscape:cy="282.10178"
-     inkscape:current-layer="layer13"
+     inkscape:zoom="6.2645241"
+     inkscape:cx="-9.4807903"
+     inkscape:cy="22.877112"
+     inkscape:current-layer="g3893"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1625"
-     inkscape:window-height="1026"
-     inkscape:window-x="55"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
      inkscape:snap-object-midpoints="true"
@@ -55,11 +55,13 @@
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
        position="12.141071,15.372"
-       id="guide3805" />
+       id="guide3805"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
        position="8.765625,8.734375"
-       id="guide3807" />
+       id="guide3807"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -106,7 +108,7 @@
          inkscape:connector-curvature="0"
          id="path3862"
          d="M 10,24 7,18 7,0 l 6,0 0,18 z"
-         style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#404040;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(1,0,0,1.25,-8,0.5)"
          sodipodi:open="true"
@@ -118,7 +120,7 @@
          sodipodi:cy="16"
          sodipodi:cx="18"
          id="path3864"
-         style="color:#000000;fill:#d64933;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
       <path
          sodipodi:type="arc"
@@ -135,7 +137,7 @@
          transform="matrix(0.5,0,0,-0.5,5,4.3749998)" />
       <path
          sodipodi:type="arc"
-         style="color:#000000;fill:none;stroke:#d64933;stroke-width:3.00788212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ff6600;stroke:#ff6600;stroke-width:3.00788212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3880"
          sodipodi:cx="10"
          sodipodi:cy="2"
@@ -157,7 +159,7 @@
          sodipodi:cy="2"
          sodipodi:cx="10"
          id="path3882"
-         style="color:#000000;fill:none;stroke:#d64933;stroke-width:3.00788212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ff6600;stroke:#ff6600;stroke-width:3.00788212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
       <path
          style="fill:none;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

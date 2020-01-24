@@ -13,9 +13,9 @@
    height="24"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="bottom_tee.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/right_tee.png"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/bottom_tee.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392432"
+     inkscape:zoom="12.291166"
      inkscape:cx="15.90178"
      inkscape:cy="12.023253"
      inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1861"
-     inkscape:window-height="1176"
-     inkscape:window-x="1979"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -48,19 +48,23 @@
     <sodipodi:guide
        orientation="0,1"
        position="10,9.5"
-       id="guide2996" />
+       id="guide2996"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="10,14.5"
-       id="guide2998" />
+       id="guide2998"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="10.5,12"
-       id="guide3347" />
+       id="guide3347"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="13.5,14.5"
-       id="guide3349" />
+       id="guide3349"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -70,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,8 +99,8 @@
      id="layer12"
      inkscape:label="Layer#4">
     <path
-       style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 3,21 0,-4 7,0 0,-14 4,0 0,14 7,0 0,4 z"
+       style="fill:#404040;stroke:#2d2d2d;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3,21 v -4 h 7 V 3 h 4 v 14 h 7 v 4 z"
        id="path3000"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />

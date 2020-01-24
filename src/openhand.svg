@@ -14,9 +14,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="openhand.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/openhand.png"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/openhand.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -38,16 +38,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.541666"
-     inkscape:cx="25.533703"
-     inkscape:cy="12.833232"
+     inkscape:zoom="41.066893"
+     inkscape:cx="13.756131"
+     inkscape:cy="8.9371496"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g4074"
      showgrid="true"
-     inkscape:window-width="1861"
-     inkscape:window-height="1176"
-     inkscape:window-x="1979"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="false"
@@ -74,19 +74,23 @@
     <sodipodi:guide
        orientation="1,0"
        position="34.271085,16"
-       id="guide4622" />
+       id="guide4622"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="38.542169,16"
-       id="guide4624" />
+       id="guide4624"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="30,16"
-       id="guide4626" />
+       id="guide4626"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="25.728916,21.87747"
-       id="guide4628" />
+       id="guide4628"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -131,17 +135,17 @@
          sodipodi:nodetypes="ccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path3821"
-         d="m 5.898596,6 3.118473,0 0,0 1.152611,7.428593 L 11,5 l 3.440765,0 0,8.428593 L 16.30522,6 19,6 18.711849,13.428593 21.017069,7 l 1.965862,3e-5 0,14.571377 -17.084335,0 0,-4.4081 -1.881527,-0.734715 -3,-3.673484 4.881527,0 z"
-         style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         d="M 5.898596,6 H 9.017069 V 6 L 10.16968,13.428593 11,5 h 3.440765 v 8.428593 L 16.30522,6 H 19 L 18.711849,13.428593 21.017069,7 l 1.965862,3e-5 V 21.571407 H 5.898596 v -4.4081 l -1.881527,-0.734715 -3,-3.673484 h 4.881527 z"
+         style="display:inline;fill:#404040;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path3833"
-         d="m 22.863561,18.269956 -16.561192,0 0,2.941414 16.561192,0 z"
-         style="fill:#d64933;stroke:none;display:inline" />
+         d="M 22.863561,18.269956 H 6.302369 v 2.941414 h 16.561192 z"
+         style="display:inline;fill:#ff6600;stroke:none" />
       <path
-         style="fill:none;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 5.898596,6 3.118473,0.0025 0,0 1.152611,7.426093 L 11,5 l 3.440765,0 0,8.428593 L 16.30522,6 19,6 18.711849,13.428593 21.017069,7 l 1.965862,0 0,14.573851 -17.084335,0 0,-4.408104 0,-0.165714 0,-4.635689 0,0.393303 z"
+         style="display:inline;fill:none;stroke:#2d2d2d;stroke-width:1.39070714;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5.898596,6 3.118473,0.0025 v 0 L 10.16968,13.428593 11,5 h 3.440765 v 8.428593 L 16.30522,6 H 19 L 18.711849,13.428593 21.017069,7 h 1.965862 V 21.573851 H 5.898596 v -4.408104 -0.165714 -4.635689 0.393303 z"
          id="path5110"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccc" />

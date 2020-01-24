@@ -14,9 +14,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="X_cursor.svg"
-   inkscape:export-filename="/home/umut/Dropbox/MouseCursorTheme/Numix/cursors/X_cursor.png"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/X_cursor.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -38,16 +38,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="15.895318"
-     inkscape:cy="-0.50853017"
+     inkscape:zoom="54.941968"
+     inkscape:cx="12.409822"
+     inkscape:cy="9.1664509"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
-     inkscape:window-width="1861"
-     inkscape:window-height="1176"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
@@ -67,19 +67,23 @@
     <sodipodi:guide
        orientation="1,0"
        position="9.0000006,21"
-       id="guide3837" />
+       id="guide3837"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="14.999999,21"
-       id="guide3839" />
+       id="guide3839"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="3.0000003,15"
-       id="guide3841" />
+       id="guide3841"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="3.0000003,9"
-       id="guide3843" />
+       id="guide3843"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -116,8 +120,8 @@
      id="layer5"
      inkscape:label="Layer 5">
     <path
-       style="fill:#e8e8e8;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.39084947;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 20.304575,16.982746 16.982745,20.304575 12,15.32183 7.0172548,20.304576 3.6954247,16.982746 8.6781703,12.000001 3.6954251,7.0172547 7.0172544,3.6954255 12,8.6781699 16.982747,3.6954261 20.304575,7.017255 15.32183,11.999999 z"
+       style="fill:#ff6600;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.39084947;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.304575,16.982746 16.982745,20.304575 12,15.32183 7.0172548,20.304576 3.6954247,16.982746 8.6781703,12.000001 3.6954251,7.0172547 7.0172544,3.6954255 12,8.6781699 16.982747,3.6954261 20.304575,7.017255 15.32183,11.999999 Z"
        id="path3783"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />

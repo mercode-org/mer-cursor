@@ -14,9 +14,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="right_side.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/corners-sides/right_side.png"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="top_side.svg"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/top_side.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -47,16 +47,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9597978"
+     inkscape:zoom="8.7703334"
      inkscape:cx="19.970814"
-     inkscape:cy="28.94294"
+     inkscape:cy="10.69962"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g5265"
      showgrid="true"
-     inkscape:window-width="1625"
-     inkscape:window-height="1026"
-     inkscape:window-x="1735"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
@@ -81,11 +81,13 @@
     <sodipodi:guide
        orientation="0,1"
        position="10,12"
-       id="guide3013" />
+       id="guide3013"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="7.5,11.285299"
-       id="guide3017" />
+       id="guide3017"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -128,10 +130,10 @@
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path3859"
-         d="M 3,6 3,3 8,3 8,5 8,21 3,21 z"
-         style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="M 3,6 V 3 H 8 V 5 21 H 3 Z"
+         style="fill:#404040;stroke:#2d2d2d;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="fill:#d64933;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="display:inline;fill:#ff6600;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 19.96736,8.2115048 11,12 l 8.927798,3.880846 c 1.291428,-2.549868 1.427842,-4.978216 0.03956,-7.6693658 z"
          id="path7971-6-5"
          inkscape:connector-curvature="0"

@@ -13,9 +13,9 @@
    height="24"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bd_double_arrow.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/bd_double_arrow.png"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="fd_double_arrow.svg"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/fd_double_arrow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-10.40627"
+     inkscape:zoom="8.859375"
+     inkscape:cx="-11.196393"
      inkscape:cy="5.271012"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g4374"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1625"
-     inkscape:window-height="1026"
-     inkscape:window-x="55"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-nodes="true"
@@ -54,11 +54,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="0.5,15"
-       id="guide3065" />
+       id="guide3065"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="23.5,16"
-       id="guide3067" />
+       id="guide3067"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -94,9 +96,9 @@
      inkscape:label="Layer#4">
     <g
        id="g4374"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-4.9466067,12.009923)">
+       transform="rotate(-45,12.023956,11.976044)">
       <path
-         style="fill:#d64933;stroke:#2d2d2d;stroke-width:1.39019573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="display:inline;fill:#ff6600;stroke:#2d2d2d;stroke-width:1.39019573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 7.2762354,9.1857472 -6.58113754,2.7803738 6.55210294,2.84815 c 0.9477779,-1.871347 1.047892,-3.653509 0.029033,-5.6285418 z"
          id="path7971-6-5"
          inkscape:connector-curvature="0"
@@ -107,8 +109,8 @@
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path3859"
-         d="m 10.545455,10.363636 0,-0.8181815 2.90909,0 0,0.5454545 0,4.363636 -2.90909,0 z"
-         style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="M 10.545455,10.363636 V 9.5454545 h 2.90909 v 0.5454545 4.363636 h -2.90909 z"
+         style="fill:#404040;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:transform-center-x="3.6524511"
          inkscape:transform-center-y="0.03387935"
@@ -116,7 +118,7 @@
          inkscape:connector-curvature="0"
          id="path4372"
          d="m 16.723765,9.1857474 6.581137,2.7803736 -6.552103,2.84815 c -0.947778,-1.871347 -1.047892,-3.653509 -0.02903,-5.6285417 z"
-         style="fill:#d64933;stroke:#2d2d2d;stroke-width:1.39019573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="display:inline;fill:#ff6600;stroke:#2d2d2d;stroke-width:1.39019573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g

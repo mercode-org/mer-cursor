@@ -14,9 +14,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ll_angle.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/corners-sides/ll_angle.png"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="top_left_corner.svg"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/top_left_corner.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -47,16 +47,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.199999"
+     inkscape:zoom="24.806248"
      inkscape:cx="14.909113"
-     inkscape:cy="17.717898"
+     inkscape:cy="6.430419"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1625"
-     inkscape:window-height="1026"
-     inkscape:window-x="55"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
@@ -102,8 +102,8 @@
      id="layer4"
      inkscape:label="Layer 4">
     <path
-       style="fill:#e8e8e8;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 3,3 21,3 21,8 8,8 8,21 3,21 z"
+       style="fill:#404040;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3,3 H 21 V 8 H 8 V 21 H 3 Z"
        id="path3859"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -120,6 +120,6 @@
        inkscape:connector-curvature="0"
        id="path7971-6"
        d="M 14.710289,20 11,11 l 9.076072,3.520152 c -0.875285,2.720936 -2.486186,4.543154 -5.365808,5.479858 z"
-       style="fill:#d64933;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="display:inline;fill:#ff6600;stroke:#2d2d2d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

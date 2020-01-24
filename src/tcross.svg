@@ -13,9 +13,9 @@
    height="24"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="tcross.svg"
-   inkscape:export-filename="/home/uloco/Dropbox/MouseCursorTheme/Numix/cursors/tcross.png"
+   inkscape:export-filename="/home/yutyo/git/mer-cursor/src/tcross.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
+     inkscape:zoom="25.058097"
      inkscape:cx="5.814516"
-     inkscape:cy="14.607528"
+     inkscape:cy="13.75266"
      inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1625"
-     inkscape:window-height="1026"
-     inkscape:window-x="55"
-     inkscape:window-y="24"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -53,11 +53,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="12.5,14"
-       id="guide3764" />
+       id="guide3764"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="10,12.5"
-       id="guide3766" />
+       id="guide3766"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -67,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,8 +94,8 @@
      id="layer12"
      inkscape:label="Layer#4">
     <path
-       style="fill:#ffffff;stroke:#2d2d2d;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 11,4.3720543 11,11 l -6.6279457,0 0,2 L 11,13 l 0,6.627946 2,0 L 13,13 l 6.627946,0 0,-2 L 13,11 13,4.3720543 z"
+       style="fill:#404040;stroke:#2d2d2d;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11,4.3720543 V 11 H 4.3720543 v 2 H 11 v 6.627946 h 2 V 13 h 6.627946 V 11 H 13 V 4.3720543 Z"
        id="path4278"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
