@@ -5,7 +5,7 @@ set -exuo pipefail
 cd src
 for f in $(find -iname "*.svg"); do
   out=${f/".svg"/".png"}
-  inkscape "$f" "--export-png=$out" --export-dpi=300
+  inkscape "$f" "--export-png=$out" --export-dpi=100
 done
 
 for f in $(find -iname "*.cursor"); do
