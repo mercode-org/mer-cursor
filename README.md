@@ -1,22 +1,11 @@
-# numix-cursor
-An X-cursor-theme for use along with the numixproject products.
-
-This is version 0.9.0 and there is still a lot to discuss. Please install the cursor and play a bit with it. Then
-tell me, whether you like it or not and what you would prefer to be changed to suit the numix design. 
-I additionally updated this to gnome-look.org (and variants) to see what the community says about it.
-
-This theme is tested only under Ubuntu with the Unity desktop, but should work fine with all of its' most popular desktop derivates. (KDE, xfce, lxde)
-
-For the moment, the only size supported is 24px and one color scheme.
-I generated all the x-cursor files and png images by hand, for the design I used Inkscape. For the links in the src directory, I used the most popular x-cursor themes on gnome-look.org.
-
-I will be working on proper bash scripts for png and cursor generation to minimize the work. (I could probably use some help here, because I am new to bash scripting).
+# mer-cursor
+An X-cursor-theme for use along with the MerOS. Forked from Numix Cursor.
 
 ## Current design preview
 
 ![](src/left_ptr.png "left_ptr")
 ![](src/left_ptr_watch_01.png "left_ptr_watch")
-![](animation/left_ptr_watch.gif "left_ptr_watch-animated")
+![](src/left_ptr_watch1.png "left_ptr_watch-animated")
 ![](src/copy.png "copy")
 ![](src/move.png "move")
 ![](src/link.png "link")
@@ -25,7 +14,7 @@ I will be working on proper bash scripts for png and cursor generation to minimi
 ![](src/right_ptr.png "right_ptr")
 ![](src/up-arrow.png "up-arrow")
 ![](src/watch_01.png "watch")
-![](animation/watch.gif "watch-animated")
+![](src/watch1.png "watch-animated")
 ![](src/hand2.png "hand2")
 ![](src/openhand.png "openhand")
 ![](src/dnd-none.png "dnd-none")
@@ -79,10 +68,7 @@ I will be working on proper bash scripts for png and cursor generation to minimi
 
 1. Download or clone this repository to any location
 2. From that directory:
-3. run `sudo cp -rf theme/Numix-Cursor/ /usr/share/icons/`
-4. run `sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Numix-Cursor/cursor.theme 90`
-5. run `sudo update-alternatives --config x-cursor-theme` and choose the numix theme
-6. open gnome-tweak-tool or unity-tweak-tool and choose `Numix-Cursor` as mouse cursor theme
-7. restart X-server
+3. run install.sh
+4. Done!
 
 Enjoy!
